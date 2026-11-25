@@ -9,7 +9,7 @@ I'm a passionate Information Technology student at Bahria University, Islamabad,
 
 ## 🚀 About Me
 
-- 🎓 BS Information Technology (4 Semesters Completed)
+- 🎓 BS Information Technology (5 Semester in progress)
 - 🏫 Bahria University, Islamabad
 - 🤖 Interested in AI, Prompt Engineering & Generative AI
 - 💻 Learning Front-End Development and Modern Web Technologies
@@ -34,7 +34,6 @@ I'm a passionate Information Technology student at Bahria University, Islamabad,
 ### AI Skills
 - Prompt Engineering
 - AI Fluency
-- Large Language Models (LLMs)
 
 ### Web Development
 - HTML
